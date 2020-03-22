@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## DAT3 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (10/2/14 - 12/18/14). View student work in the [student repository](https://github.com/justmarkham/DAT3-students).
@@ -476,3 +477,7 @@ At the end of this class, you should be able to do the following:
     * Primary use cases: [run your model in the cloud](http://www.dominodatalab.com/benefits/model_development), [create a self-service web form](http://www.dominodatalab.com/benefits/web_forms) or [API](http://www.dominodatalab.com/benefits/web_services) that interacts with your model
     * [Usage rates](https://app.dominodatalab.com/usageRates) and [subscription pricing](http://www.dominodatalab.com/pricing)
     * [Command reference](http://help.dominodatalab.com/howToReference)
+=======
+# DAT3
+General Assembly's Data Science course in Washington, DC
+>>>>>>> 75710e3706c85e3a6195b24fad49c0358ae2d8e4
